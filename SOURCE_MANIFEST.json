@@ -1,0 +1,129 @@
+{
+  "family": "flutter",
+  "version": "1.0.0",
+  "source_commit": "cf893e2d16b86550dc2df1cb997112635fd8b0e1",
+  "source_worktree_dirty": false,
+  "note": "SDK-only export. No private monorepo Git history is included.",
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 89,
+      "sha256": "c5f456f4878a24fe551bdc2806692ed7cf8372b23d7e11eaa172f16189574615"
+    },
+    {
+      "path": "CHANGELOG.md",
+      "bytes": 74,
+      "sha256": "7f19295897bfa9874be43e4aa33eadac21b3eb2a3822c9477414f28033028c90"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 11358,
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+    },
+    {
+      "path": "NOTICE",
+      "bytes": 224,
+      "sha256": "dc108c5070eb593e42d0f126e91fd47c7f2416d627cd53a9cd1198120e5bc5ba"
+    },
+    {
+      "path": "README.md",
+      "bytes": 1420,
+      "sha256": "c5a85fe908377261093f7f3bd5fef08cb8d58424c428de08922149cc76edb548"
+    },
+    {
+      "path": "analysis_options.yaml",
+      "bytes": 630,
+      "sha256": "eee7f3f7e2f5931e96bf31521e2417df6f51b41b85c0b3efbc384364f42260bc"
+    },
+    {
+      "path": "lib/aquari_one.dart",
+      "bytes": 313,
+      "sha256": "5d0d6540e42889f2290d3e20f8ea1c2528f05d9108bb078d0018d9011cc3400c"
+    },
+    {
+      "path": "lib/src/auth.dart",
+      "bytes": 34041,
+      "sha256": "5023b45ab7367a864fbdc0bf87dc0dabcac33dddd803a2c1980eabe84b86bd73"
+    },
+    {
+      "path": "lib/src/cancellation.dart",
+      "bytes": 695,
+      "sha256": "f52c788110555aec49ccafb734efd66e039b1cd6c46041a9aa38d5479921b1e2"
+    },
+    {
+      "path": "lib/src/client.dart",
+      "bytes": 1555,
+      "sha256": "b156b2fba7c60bd40de12a584df5b017f773eebfe3ceb5872dad6e40a88314e5"
+    },
+    {
+      "path": "lib/src/config.dart",
+      "bytes": 6954,
+      "sha256": "7febff1c203c0cbfd14cd4df2831fe18c8c4ed6abb0e3cdc4d404356f03a4b5d"
+    },
+    {
+      "path": "lib/src/errors.dart",
+      "bytes": 4385,
+      "sha256": "9fc8621957c6aa8d065b3db5b23ea187f3ccde21c7782b058ef4c32c6a5fb76b"
+    },
+    {
+      "path": "lib/src/flutter_client.dart",
+      "bytes": 7460,
+      "sha256": "137a89ce2f879bdb1155d4706d3e6e1e76fe5288d788176e3beef7381c5c80c1"
+    },
+    {
+      "path": "lib/src/http.dart",
+      "bytes": 2586,
+      "sha256": "b0e424a3ee88f8b358f627e4f5e811bf6088642b2e7be277fcde6b37759478a3"
+    },
+    {
+      "path": "lib/src/oidc.dart",
+      "bytes": 6131,
+      "sha256": "561733fc9234f0a685328b1660263a68689894426a5a715f098b66c68a90dd28"
+    },
+    {
+      "path": "lib/src/passport.dart",
+      "bytes": 17025,
+      "sha256": "88bd71e5f1da501eacdf997945dc25bf9a1a3c28e594b04cb15a68fa092fed01"
+    },
+    {
+      "path": "lib/src/pkce.dart",
+      "bytes": 872,
+      "sha256": "283ecb744f7adbaf24c4d1f814f1207d221a20fca1e3a57e862d4d71ecb1dcba"
+    },
+    {
+      "path": "lib/src/secure_storage.dart",
+      "bytes": 2609,
+      "sha256": "634bc3d26b2b36c4a24781da1724eac17cc188983414b3588d2dcbc0a2239bc2"
+    },
+    {
+      "path": "lib/src/transport.dart",
+      "bytes": 13446,
+      "sha256": "14298279b8740f1222cfa5394c00e6d242a03bed4ed83e7b6f5faf13f10d19f5"
+    },
+    {
+      "path": "lib/src/trust.dart",
+      "bytes": 6952,
+      "sha256": "b6a0b47cafd53ef3f74a5ae0f1981c2a58fc78a4a6ff819720f756db34769254"
+    },
+    {
+      "path": "pubspec.yaml",
+      "bytes": 587,
+      "sha256": "0130e26b12ffc2552cd9e6a53623b034d06820a75ad8534c374fa51497848b55"
+    },
+    {
+      "path": "test/core_test.dart",
+      "bytes": 12379,
+      "sha256": "8c482becfbec3b0bc7bb4b0244baec297f726a3cb8ada8fc06dd289fca5f8e3e"
+    },
+    {
+      "path": "test/flutter_adapter_test.dart",
+      "bytes": 3118,
+      "sha256": "48f96e8a660ef1c6cf2e09bc5881336ffbd73f36bddbc01aac255483a4117149"
+    },
+    {
+      "path": "test/retry_after_test.dart",
+      "bytes": 2849,
+      "sha256": "01dfe90dd5c9d3ea8d592209ebe132ed8f86195caca2467c8c4f8b2405966ac4"
+    }
+  ]
+}
